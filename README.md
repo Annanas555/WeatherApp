@@ -3,9 +3,9 @@
 <h2>Установка</h2>
 <ol>
   <li>Склонируйте репозиторий с помощью следующей команды:</li>
-  <pre><code>git clone https://github.com/your-username/weatherapp.git</code></pre>
+  <pre><code>git clone https://github.com/your-username/WeatherApp.git</code></pre>
   <li>Перейдите в каталог проекта:</li>
-  <pre><code>cd weatherapp</code></pre>
+  <pre><code>cd WeatherApp</code></pre>
   <li>Установите зависимости, выполнив следующую команду:</li>
   <pre><code>pip install requests</code></pre>
 </ol>
