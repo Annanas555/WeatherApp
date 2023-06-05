@@ -3,7 +3,7 @@
 <h2>Установка</h2>
 <ol>
   <li>Склонируйте репозиторий с помощью следующей команды:</li>
-  <pre><code>git clone https://github.com/your-username/WeatherApp.git</code></pre>
+  <pre><code>git clone https://github.com/Annanas555/WeatherApp.git</code></pre>
   <li>Перейдите в каталог проекта:</li>
   <pre><code>cd WeatherApp</code></pre>
   <li>Установите зависимости, выполнив следующую команду:</li>
